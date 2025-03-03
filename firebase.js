@@ -4,7 +4,7 @@ import { getStorage , ref, uploadBytesResumable } from "https://www.gstatic.com/
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB3vxGV2cmIZGE9wrXLNkZAtmj9_XSMDX4",
+  apiKey: "your api",
   authDomain: "cloud-5b300.firebaseapp.com",
   projectId: "cloud-5b300",
   storageBucket: "cloud-5b300.appspot.com",
